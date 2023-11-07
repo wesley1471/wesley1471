@@ -2,7 +2,7 @@
 <br/>
 
 ## 👋 Hi, I’m Wesley
-### First of all I would like to say welcome to my Profile
+<h3> First of all I would like to say welcome to my Profile</h3> 
 <br/>
 
 ## Learning:
