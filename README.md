@@ -1,4 +1,3 @@
-# Welcome
 <br/>
 
 ## 👋 Hi, I’m Wesley
@@ -15,6 +14,6 @@
 * TensorFlow
 * OpenCV
 <br/>
-
+[![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley1471)](https://github.com/wesley1471/github-readme-stats)
 
 ## Email : wesley1471@gmail.com
