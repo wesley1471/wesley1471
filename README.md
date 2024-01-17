@@ -1,10 +1,8 @@
-<img style="height: 500;" src="https://github.com/wesley1471/wesley1471/assets/87871853/29069d93-2c69-4731-bc06-8dba7ce562b8"/>
-
+![image](https://github.com/wesley1471/wesley1471/assets/87871853/29069d93-2c69-4731-bc06-8dba7ce562b8 | width=100)
 
 ## Learning:
  AI  | Python | CNN | DCNN | TensorFlow | OpenCV
 <br/>
-![image](https://github.com/wesley1471/wesley1471/assets/87871853/29069d93-2c69-4731-bc06-8dba7ce562b8)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=wesley1471&show_icons=true&theme=cobalt"
