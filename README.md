@@ -1,4 +1,4 @@
-![image](https://github.com/wesley1471/wesley1471/assets/87871853/29069d93-2c69-4731-bc06-8dba7ce562b8)
+![image](https://github.com/wesley1471/wesley1471/assets/87871853/29069d93-2c69-4731-bc06-8dba7ce562b8 = 1024x420)
 
 ## Learning:
  AI  | Python | CNN | DCNN | TensorFlow | OpenCV
